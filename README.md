@@ -1,0 +1,2 @@
+# templates
+Responsywna strona www
